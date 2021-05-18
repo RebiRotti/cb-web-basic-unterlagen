@@ -75,7 +75,7 @@ __Grundlage Buch: HTML & CSS für dummies__
 </table>
 
 __JavaScript__
-
+Template Repository für JS Games: https://github.com/RebiRotti/cb-template-js-games
 <table>
   <thead>
     <tr>

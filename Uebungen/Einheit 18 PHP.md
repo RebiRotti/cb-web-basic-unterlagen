@@ -11,7 +11,7 @@
 
 3. Erstelle drei Programme, die von 1 bis 10 zählen, verwende hierfür jeweils einmal eine while-, eine for- und eine do-while-Schleife
 
-4. Erstelle ein zusammengesetztes Array für das Sortiment eines Obst- und Gemüsehändlers mit Äpfel, Birnen, Tomaten und Zucchini. Die erste Ebene soll einen numerischen Index haben. Die zweite soll hingegen assoziativ sein (mit den Bezeichnungen Produkt, Preis und Sonderangebot). Bei der Angabe zum Produkt handelt es sich um eine Zeichenkette mit der entsprechenden Obst- oder Gemüsesorte, beim Preis um eine Zahl und die Angabe Sonderangebot soll eine boolesche Variable seinErstelle eine foreach-Schleife, die den Produktnamen und den Preis angibt. Sollte es ich dabei um ein Sonderangebot handeln, soll vor diesen Angaben „Achtung Sonderangebot!“ erscheinen.
+4. Erstelle ein zusammengesetztes Array für das Sortiment eines Obst- und Gemüsehändlers mit Äpfel, Birnen, Tomaten und Zucchini. Die erste Ebene soll einen numerischen Index haben. Die zweite soll hingegen assoziativ sein (mit den Bezeichnungen Produkt, Preis und Sonderangebot). Bei der Angabe zum Produkt handelt es sich um eine Zeichenkette mit der entsprechenden Obst- oder Gemüsesorte, beim Preis um eine Zahl und die Angabe Sonderangebot soll eine boolesche Variable sein<br>Erstelle eine foreach-Schleife, die den Produktnamen und den Preis angibt. Sollte es ich dabei um ein Sonderangebot handeln, soll vor diesen Angaben „Achtung Sonderangebot!“ erscheinen.
 
 5. Ergänze das vorherige Beispiel um die Ausgabe des entsprechenden Feldnamens. Das Sonderangebot kannst du weg lassen.
 
