@@ -1,4 +1,4 @@
-# Übung 1
+# Übung 1 - Kapitel 1, 2, 3
 
 Erstelle zwei Seiten die miteinander verlinkt sind.<br>
 Wähle das Thema selbst. <br><br>

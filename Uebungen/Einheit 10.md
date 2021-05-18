@@ -1,7 +1,10 @@
-# Übung 10
+# Übung 10 - Kapitel 16, 17, 18, 20
+
+## Reisedestination
+
 
 - Erstelle für deine Reisedestination-Webseite ein Print Layout ohne Bilder. Der Text soll über die gesamte Breite gehen, die Navigation ausgeblendet. Bei Verlinkungen muss die Linkadresse angezeigt sein
-- Erstelle verschiedene Breakpoints in deiner Seite, für eine unterschiedliche Darstellung auf Tablets und Handys
+- Erstelle verschiedene Breakpoints (Media Queries) in deiner Seite, für eine unterschiedliche Darstellung auf Tablets und Handys
 - Erstelle (falls noch nicht vorhanden) ein Kontaktformular für deine Reisedestination Seite bei der du mittels Dropdown eine Destination auch auswählen kannst plus ein paar anderer Formularfelder. In der mobilen Ansicht sollen die Labels für die Inputfelder darüber stehen, auf großen Screens daneben.
 - Baue eine Klappnavigation laut der Vorlage "rwd_navigation_klapp.html
 - Binde für die unterschiedlichen Displaygrößen unterschiedliche Fotos ein

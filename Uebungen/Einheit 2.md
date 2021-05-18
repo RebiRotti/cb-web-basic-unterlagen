@@ -1,9 +1,10 @@
-# Gelerntes anwenden
+# Übung 2 - Kapitel 5
 
 Im heutigen Unterricht haben wir verschiedene neue Tags kennengelernt.
 
 Erstelle eine oder mehrere HTML-Seiten und verarbeite folgende Tags:
-Wähle ein dir passendes Thema, z.b.: Seite für Schokoladenfabrik, Fitnesshinweise, Tiere, ...
+Wähle ein dir passendes Thema, z.b.: Seite für Schokoladenfabrik, Fitnesshinweise, Tiere, ...<br>
+Du kannst auch die Seite aus Übung 1 um die Übung erweitern<br>
 
 ## Ungeordnete Liste
 ```html

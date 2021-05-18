@@ -1,7 +1,9 @@
-# Zooprojekt erweitern
+# Übung 5 - Kapitel 9, 10
 
-Du kannst dein Projekt aus der Übung drei in das neue Repository kopieren und daran weiterarbeiten oder neu anfangen. 
-Thema ist der Zoo.
+## Thema: Zoo und seine Bewohner
+
+Du kannst an deiner letzten Übung weiterarbeiten.
+
 
 - setze Links und spiel dich mit dem Linkzuständen in CSS
 - Baue strukturelle Pseudoklassen und Pseudoelemente in dein CSS ein
@@ -9,4 +11,6 @@ Thema ist der Zoo.
 - nutze die Selektoren, die wir kennen gelernt haben
 - füge mit ::before oder ::after Icons ein (Icons unter zB <a href="https://www.flaticon.com/" target="_blank">Flaticon</a>)
 - style den ersten Buchstaben jeder Überschrift anders (eventuell mit einer anderen Schriftart: <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
-
+- nutze die Vererbung in deinem Stylesheet für das Styling von Elementen
+- Nutze relative Größen um die Seite responsive zu gestalten
+- Setze eine Überschrift die mit der calc() Funktion im CSS je nach Bildschrimgröße die Schriftgröße mitskaliert

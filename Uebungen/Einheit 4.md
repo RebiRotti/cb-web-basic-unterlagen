@@ -1,4 +1,4 @@
-# Tabellen und Formulare
+# Übung 4 - Kapitel 8
 
 ## Thema: Zoo und seine Bewohner
 
@@ -44,3 +44,4 @@ Felder die Abgefragt werden (achte auf die Validierung):
 #### Allgemein
 * Nutze die Stylinganweisungen aus *Übung 1*
 * Nutze die strukturellen Tags und Auszeichnungstags aus *Übung 2*
+* Nutze Bilder und Videos wie aus *Übung 3*
