@@ -1,17 +1,21 @@
 # Übung 21 - PHP 05
 
 
-Erstelle ein kleines Lexikon bei dem du Einträge in der Datenbank abspeichern, bearbeiten und anzeigen lassen kannst.<br>
-Nutze PDO als Verbindung zur Datenbank
+Spiel <a href="https://github.com/RebiRotti/cb-web-basic-unterlagen/blob/main/Uebungen/Anleitungen%20f%C3%BCr%20Spiele/ZahlenRaten.md" target="_blank">Zahlen raten</a> oder  <a href="https://github.com/RebiRotti/cb-web-basic-unterlagen/blob/main/Uebungen/Anleitungen%20f%C3%BCr%20Spiele/CodeBreaker.md" target="_blank">CodeBreaker</a>
 
-Tabellen
+Speichere den Score der Spiele ab:
+Tipp: Frage den Spielername am Anfang ab und speichere ihn mit JS im LocalStorage ab bis zum Spielende, gleiches gilt für Runden, usw.
 
-user: Name, Mailadresse, Passwort
+Gib den Score der einzelnen Spiele auf einer Seite aus
 
-content: Titel, Beschreibung, Image (und was dir sonst noch einfällt), welcher User hats erstellt
+Implementiere die Möglichkeit einzelne und alle Ergebnisse zu löschen
 
-Relation: user 1 - n content
 
-Jeder Benutzer der sich einloggt kann nur die Einträge editieren und löschen die er auch erstellt hat
 
-Der Benutzer der es erstellt hat kann bei jedem Eintrag sehen, wann es erstellt u geändert wurde. Die anderen Benutzer sehen diese Information nicht
+- Spielername
+- zu erratende Zahl
+- wurde Zahl erraten (ja/nein)
+- Versuch
+- Datum
+- Spiel (CodeBreaker oder Zahlen Raten)
+
