@@ -12,3 +12,4 @@
 - nutze im Custom Properties um die Farben als Variable abzuspeichern
 - nutze zum Beispiel als Headerbild den Überblendeffekt 
 - baue irgendwo den Filtereffekt ein
+- Nutze das Gridsystem und Flexboxen für das Layout
