@@ -17,3 +17,5 @@ Implementiere die Möglichkeit einzelne und alle Ergebnisse zu löschen
 - Antwort richtig / falsch
 - Datum
 
+Ich erwarte ein perfekt gestyltes Ergebnis ;)<br>
+Zeigt was ihr in HTML & CSS gelernt habt!
