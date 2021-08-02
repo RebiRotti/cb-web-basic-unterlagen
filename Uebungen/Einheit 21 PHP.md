@@ -19,3 +19,5 @@ Implementiere die Möglichkeit einzelne und alle Ergebnisse zu löschen
 
 Ich erwarte ein perfekt gestyltes Ergebnis ;)<br>
 Zeigt was ihr in HTML & CSS gelernt habt!
+
+Responsive!
