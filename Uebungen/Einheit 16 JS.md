@@ -56,16 +56,14 @@ Besucher wird eine Frage gestellt
         - Wenn richtig, Funktion gibt entsprechende Nachricht aus und liefert den Wert true zurück
         - Wenn falsch, entsprechende Nachricht ausgeben und false zurück geben
     - Schwierigkeitsgrade
-        1. Aufgabe: einfache Addition mit Zufallszahlen zwischen 1 und 50 
-        2. Aufgabe: Subtraktion ohne negativen Ergebnis!
-        Erste Zahl im Bereich 51 bis 100, zweite Zahl zwischen 1 und 50
-        3. Aufgabe: Multiplikation
-        4. Aufgabe: Division
-        hier wird der Divisor und das Ergebnis per Zufall bestimmt, da sonst komplizierte Nachkommastellen berechnet werden müssen
-        5. bis 7. Aufgabe: Berechnungen mit drei verschiedenen Zufallsvariablen
-        8. Aufgabe: Quadratwurzel eines Werts (Math.pow())
+        - .1. Aufgabe: einfache Addition mit Zufallszahlen zwischen 1 und 50 
+        - .2. Aufgabe: Subtraktion ohne negativen Ergebnis. Erste Zahl im Bereich 51 bis 100, zweite Zahl zwischen 1 und 50
+        - .3. Aufgabe: Multiplikation
+        - .4. Aufgabe: Division hier wird der Divisor und das Ergebnis per Zufall bestimmt, da sonst komplizierte Nachkommastellen berechnet werden müssen
+        - .5. bis 7. Aufgabe: Berechnungen mit drei verschiedenen Zufallsvariablen
+        - .8. Aufgabe: Quadratwurzel eines Werts (Math.pow())
         Sinnvoll auch hier das Ergebnis per Zufallswert zu bestimmen. Stellt sicher, dass es eine ganze Zahl ist. Für die Aufgabenstellung wird dieser dann mit sich selbst multipliziert
-        9. Aufgabe: Logarithmus eines Werts (Math.pow())
+        - .9. Aufgabe: Logarithmus eines Werts (Math.pow())
         Per Zufall die Basis und das Ergebnis bestimmt. Eher kleine Werte nehmen, da sonst Potenz-Funktion sehr große Werte hat
 
 
